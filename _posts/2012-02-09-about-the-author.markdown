@@ -1,3 +1,9 @@
+---
+layout: post
+title: Games and Life Perspective
+tags: [games, life, intro]
+---
+
 My name is Daniel Moniz, and I am a gamer.
 
 Perhaps it is misleading to say that I am today a gamer. I do not have the time

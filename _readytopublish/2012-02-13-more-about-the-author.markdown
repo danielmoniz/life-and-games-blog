@@ -1,3 +1,9 @@
+---
+layout: post
+title: Manners and Attitude
+tags: [manners, gshf, attitude, gg]
+---
+
 MANNERS AND ATTITUDE
 
 Welcome back! My name is Daniel Moniz, and I am a gamer.

@@ -11,9 +11,9 @@ scripts:
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>{{ page.title }}</title>
 
-    <link rel='stylesheet' href='styles.css'>
+    <link rel='stylesheet' href='/styles.css'>
 
-    <link rel="start" href="http://metajack.im/" title="Home">
+    <link rel="start" href="http://danielmoniz.github.com/" title="Home">
     <!--<link rel="alternate" type="application/atom+xml" 
 	  title="Recent Entries"
           href="http://feeds.feedburner.com/metajack">-->
@@ -54,7 +54,7 @@ scripts:
     {% if post %}
     <script>
       <!--
-         var disqus_url = 'http://metajack.im{{ post.url }}';
+         var disqus_url = 'http://danielmoniz.github.com{{ post.url }}';
          // -->
     </script>
     {% endif %}
@@ -63,7 +63,7 @@ scripts:
   <body>
 
     <header class='page-header'>
-      <a href='/'>meta<span>jack</span>.im</a>
+      <a href='/'><span>life</span>and<span>games</span></a>
     </header>
 
     <section class='page-body'>
@@ -77,6 +77,7 @@ scripts:
         {{ cloud }}
       </aside>
 
+    <!--
       <aside class='book-promo'>
         <header>
           <h1>Buy my book</h1>
@@ -92,6 +93,7 @@ scripts:
           applications.
         </p>
       </aside>
+      -->
 
       {% unless page.title contains 'about jack moffitt' %}
       <aside class='author-bio'>
@@ -100,24 +102,30 @@ scripts:
         </header>
 
         <p>
-          <img src='/images/jack.jpg' width='100' height='100'
-               alt='Picture of Jack Moffitt'>
+          <img src='/images/daniel.jpg' width='100' height='100'
+               alt='Picture of Daniel Moniz'>
           
-          I'm a hacker and entrepreneur based in Albuquerque, New
-          Mexico. I have founded several startups built on <a href='http://xmpp.org'>XMPP</a>
-          technology including <a href='http://collecta.com'>Collecta</a>, a real-time search engine for
-          the Web, and <a href='http://chesspark.com'>Chesspark</a>, a real-time, multi-user gaming
-          platform. You can learn more about me on the <a href='/about/'>about page</a>.
+          I'm a budding hacker, writer, and gamer in Toronto, Ontario. I have
+          developed a social network at Sourst.com (private Beta), and I am
+          currently developing a number of smaller projects on 
+          <a href="http://github.com/danielmoniz">github</a>. While I have
+          primarily developed in PHP in the past, I am about to dive into
+          Python and see where it takes me. You can learn more about me on 
+          the <a href='/about/'>about page</a>.
         </p>
 
         <p>
-          Follow <a href='http://twitter.com/metajack'>@metajack</a> on <a href='http://twitter.com/metajack'>Twitter</a> or <a href='http://identi.ca/metajack'>Identica</a>, or contact me at jack at metajack.im.
+          Follow <a href='http://twitter.com/ParagonRG'>@ParagonRG</a> on <a
+          href='http://twitter.com/ParagonRG'>Twitter</a>, 
+          or contact me personally at my <a
+          href='http://www.github.com/danielmoniz'>github</a> page.
         </p>
       </aside>
       {% endunless %}
     </section>
 
     <footer>
+    <!--
       <p>
         <a href='http://feeds.feedburner.com/metajack'>
           <img src='/images/feed-icon-16x16.png' width='16' height='16'
@@ -126,11 +134,11 @@ scripts:
           subscribe to this blog
         </a>
       </p>
+      -->
 
       <p>
-        copyright &copy; 2007-9 Jack Moffitt and licensed under the
-        <a href='http://creativecommons.org/licenses/by-sa/3.0/us/'>creative
-          commons attribution-share alike license</a>
+        Thanks to <a href="http://www.github.com/metajack">Jack Moffitt</a> 
+        for his use of the source code found on this blog.</a>
       </p>
     </footer>
 
@@ -166,7 +174,7 @@ scripts:
 	    query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
 	  }
 	}
-	$LAB.script('http://disqus.com/forums/metajack/get_num_replies.js' + query);
+	$LAB.script('http://disqus.com/forums/ParagonRG/get_num_replies.js' + query);
 })();
          // -->
     </script>
