@@ -1,0 +1,2 @@
+- create python/bash script to publish articles automatically
+    - based on name (date in name) and a 'publish' flag in the file
