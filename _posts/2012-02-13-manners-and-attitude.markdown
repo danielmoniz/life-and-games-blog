@@ -24,7 +24,7 @@ strategies, take notes on my daily failures, and teach what I can to anyone
 requiring of my instruction.
 
 This combination of things does not make me the best player in the world at any
-given game*. It does, however, allow me to think about the game in interesting
+given game (^1). It does, however, allow me to think about the game in interesting
 ways. Taking notes helps me to minimize my mistakes. Researching its strategies
 minimizes the time I need to spend developing those strategies from scratch. Lastly, 
 teaching people gives me interesting perspectives on how a person is best able
@@ -56,13 +56,16 @@ Daniel Moniz
 
 ---------------------------
 
-*I was the best in the world for 3 years at Nerdbucket's "Skwerl Invaders". My
+NOTES
+
+(^1) I was the best in the world for 3 years at Nerdbucket's "Skwerl Invaders". My
 gamer tag at the time was 'Evilmeat'. Fittingly enough, I lost the record to a
 housemate to whom I taught everything I knew.
 
 Acknowledgements:
-- Larry Smith, Professor at the University of Waterloo. He taught me, and just
-  about every other student who took Econ101, to understand that we should be
-  wishing success upon our friends (which comes from hard work) rather than 
-  luck.
-- Obi Wan Kenobi. "In my experience, there's no such thing as luck."
+
+- Larry Smith, Professor of Economics at the University of Waterloo. He taught 
+me, and just about every other student who took Econ101, to understand that we 
+should be wishing success upon our friends (which comes from hard work) rather 
+than luck.
+- Obi Wan Kenobi: "In my experience, there's no such thing as luck."
