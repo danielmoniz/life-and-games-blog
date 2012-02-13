@@ -4,8 +4,6 @@ title: Manners and Attitude
 tags: [manners, gshf, attitude, gg]
 ---
 
-MANNERS AND ATTITUDE
-
 Welcome back! My name is Daniel Moniz, and I am a gamer.
 
 In the previous post, I signed off with my game handle, 'Paragon' (sometimes
