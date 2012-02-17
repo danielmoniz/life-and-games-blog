@@ -4,8 +4,6 @@ title: LOSE NOW, WIN LATER
 tags: [losing, Starcraft II, Supreme Commander, replays]
 ---
 
-LOSE NOW, WIN LATER
-
 Welcome back to Life and Gaming. My name is Daniel Moniz, and I am a gamer.
 
 In the first article I said the following: "[Gamers] do not limit themselves to 
