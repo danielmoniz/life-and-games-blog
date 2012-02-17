@@ -51,7 +51,7 @@ print filename
 
 date_string = str(now.year) + "-" + str('%02d' % now.month) + "-" + str('%02d' % now.day)
 
-newfilename = date_string + filename
+newfilename = date_string + filename + ".markdown"
 new_post_path = post_dir + newfilename
 print "Attempting to publish", filepath, "-->", new_post_path 
 print "      ...      "
