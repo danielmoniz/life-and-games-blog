@@ -14,12 +14,12 @@ Paragon is:
 "An ideal instance; a perfect embodiment of a concept."
 
 I use the term not as a descriptor of myself, but rather as a goal to work
-toward. And believe it or not, perfection in the game at hand is not even my 
-goal; simply put, I choose to pick reasonable goals. Instead, I strive to be
+toward. Believe it or not, perfection in the game at hand is not even my 
+goal simply because I choose to pick reasonable goals. Instead I strive to be
 the best student of any game given my own limitations and shortcomings. If I
-commit to a game, I not only play it as often as I can; I research its
-strategies, take notes on my daily failures, and teach what I can to anyone
-requiring of my instruction.
+commit to a game, I play it as often as I can. I research its strategies, take 
+notes on my daily failures, and teach what I can to anyone requesting my 
+instruction.
 
 This combination of things does not make me the best player in the world at any
 given game (^1). It does, however, allow me to think about the game in interesting
@@ -29,10 +29,10 @@ teaching people gives me interesting perspectives on how a person is best able
 to learn. I can then use this knowledge to further my own abilities in the
 future.
 
-In addition to the handle 'Paragon', which consistently reminds me of what I
+In addition to the handle 'Paragon' which consistently reminds me of what I
 strive to achieve, I also have firmly rejected the standard 'gl hf' (good luck,
 have fun) introduction to a given game. Rather than wish a person luck in a
-strategy game, I would clearly prefer to wish them skill. If they are skilled
+strategy game, I would much prefer to wish them skill. If they are skilled
 and I win, I can be proud of my victory. If I lose against such a player, I have
 lessons to be gained. Lastly, luck plays a role in all games without perfect
 information (eg. fog of war in RTS games, or limited 90 degree view in an FPS),
@@ -42,11 +42,12 @@ player is highly skilled.
 Instead, I choose to type "gs hf", meaning "good skill, have fun". This also
 means that I will not deride my opponent for being 'lucky'. In the same vein, I
 always make sure to give a polite 'gg' to my opponent when the game is finished.
-Respect your opponent; without them you wouldn't have a game.
+Respect your opponent; without them you wouldn't have a match. 
 
-This should be the last bit about me, rather than my experiences. Next time I
+This should be the last bit about me rather than my experiences. Next time I
 will discuss win ratios (or kill/death ratios, depending on the game/genre), 
-and why they are often not important in modern competitive gaming.
+and why they are often less important than people think in modern competitive 
+gaming.
 
 Sincerely,
 
